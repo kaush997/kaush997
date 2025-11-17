@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/sanduni_kaushalya_dilukshi?igshid=ZGUzMzM3NWJiOQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaushalya-hulathdoowage-994248245) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Kaushalya997) 
 
 ## 🌐 Trophy:
-<p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=kaush997&label=VISITS&color=30A3DC&style=for-the-badge" alt="kaush997 views" />
     &nbsp;
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaush997&theme=flat&no-frame=true" alt="kaush997 Trophy" /></a>
