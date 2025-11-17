@@ -8,8 +8,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kaush997&label=VISITS&color=30A3DC&style=for-the-badge" alt="kaush997 views" />
     &nbsp;
-    
-    </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaush997&theme=flat&no-frame=true" alt="kaush997 Trophy" /></a>
 </p>
 
